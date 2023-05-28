@@ -49,5 +49,5 @@ MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles
 17. Urban innovation
 18. Future of cities
 19. Intelligent transportation systems
-20. Smart grid technology.
+20. Smart grid technology
 
