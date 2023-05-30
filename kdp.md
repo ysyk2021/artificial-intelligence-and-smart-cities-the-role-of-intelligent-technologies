@@ -26,7 +26,7 @@ To achieve the promise of AI and smart cities, it is essential to understand the
 
 AI and smart city technologies are transforming the way we live, work, and interact with our environment. By developing comprehensive smart city strategies, building partnerships and collaborations, prioritizing data privacy and security, and promoting inclusion and equity, cities can build sustainable and livable communities that enrich the lives of residents while minimizing environmental impact. As technology continues to evolve and advance, it is essential to remain adaptable and prioritize the role of intelligent technologies in building sustainable and livable cities.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
