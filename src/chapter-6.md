@@ -1,5 +1,4 @@
-Chapter 6: Success Stories and Case Studies of Smart Cities
-===========================================================
+
 
 As smart cities continue to grow and evolve, there are many success stories and case studies that demonstrate the benefits of intelligent technologies in building sustainable and livable cities. In this chapter, we will explore some of these success stories.
 

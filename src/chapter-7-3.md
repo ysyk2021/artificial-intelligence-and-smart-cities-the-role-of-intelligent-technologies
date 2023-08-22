@@ -1,5 +1,4 @@
-Ethical, Legal and Social Implications of AI and Smart Cities
-=====================================================================================================================================
+
 
 As smart cities continue to develop and integrate artificial intelligence (AI) technologies, it is important to consider the ethical, legal, and social implications of these advancements. While AI has the potential to greatly improve the efficiency and sustainability of cities, there are also concerns about privacy, bias, and the impact on employment.
 

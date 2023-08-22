@@ -1,5 +1,4 @@
-Cloud Computing
-=====================================================================
+
 
 Cloud computing is an essential technology that has emerged in recent years. It provides a scalable and flexible infrastructure for storing, processing, and managing data, applications, and services over the internet. In smart cities, cloud computing plays a significant role in enabling intelligent technologies to operate effectively.
 

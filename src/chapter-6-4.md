@@ -1,5 +1,4 @@
-Seoul's Smart City Plan
-====================================================================================
+
 
 The city of Seoul, South Korea, has been implementing a comprehensive smart city plan since 2015. The plan aims to enhance the quality of life for citizens, promote economic growth, and improve the efficiency of public services through the use of intelligent technologies.
 

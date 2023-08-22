@@ -1,8 +1,6 @@
-Singapore as a Smart Nation
-========================================================================================
 
-Introduction
-------------
+
+
 
 Singapore is known for its rapid development and innovation, making it an ideal case study for the successful implementation of smart city technologies. Since the launch of the Smart Nation initiative in 2014, Singapore has made significant progress in leveraging intelligent technologies to improve urban living and sustainability. In this chapter, we will explore the success stories and case studies of Singapore as a smart nation.
 

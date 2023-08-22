@@ -1,5 +1,4 @@
-Smart City Concepts and Characteristics
-================================================================
+
 
 Definition of Smart Cities
 --------------------------

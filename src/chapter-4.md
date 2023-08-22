@@ -1,5 +1,4 @@
-Chapter 4: Intelligent Technologies for Smart Cities
-====================================================
+
 
 Smart cities rely on a range of intelligent technologies to optimize operations, enhance sustainability, and improve quality of life for citizens. In this chapter, we will explore some of the key intelligent technologies used in smart cities.
 

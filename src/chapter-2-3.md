@@ -1,8 +1,6 @@
-Key Concepts and Techniques in AI
-=====================================================================================
 
-Introduction
-------------
+
+
 
 Artificial Intelligence (AI) is a rapidly growing field that has the potential to transform many industries, including smart cities. In this chapter, we will discuss some of the key concepts and techniques in AI that are essential for understanding how AI works and its potential applications in smart cities.
 

@@ -1,5 +1,4 @@
-Healthcare and Well-being
-==============================================================================================
+
 
 As our cities become smarter, there is growing interest in the use of intelligent technologies to improve healthcare and well-being for citizens. In this chapter, we will explore some of the ways in which AI and other intelligent technologies can be applied in smart cities to promote health and well-being.
 

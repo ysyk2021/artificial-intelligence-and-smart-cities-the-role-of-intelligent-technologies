@@ -1,5 +1,4 @@
-Education and Learning
-===========================================================================================
+
 
 Smart cities are designed to improve the quality of life for their citizens through the use of advanced technology. One area where this is particularly important is education, where intelligent technologies can be used to create more effective and efficient learning environments.
 

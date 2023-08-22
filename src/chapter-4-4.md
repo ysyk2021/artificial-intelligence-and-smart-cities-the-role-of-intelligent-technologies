@@ -1,5 +1,4 @@
-Machine Learning and Deep Learning
-========================================================================================
+
 
 As modern cities become more complex and interconnected, the collection and analysis of data has become increasingly important in order to make informed decisions that improve the quality of life for citizens. Machine learning and deep learning are two powerful tools that can be used to analyze large amounts of data and extract valuable insights that can inform decision-making processes.
 

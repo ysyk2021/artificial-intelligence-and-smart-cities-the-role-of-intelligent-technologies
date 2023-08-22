@@ -1,5 +1,4 @@
-Robotics and Automation
-=============================================================================
+
 
 In recent years, the development of robotics and automation has provided new opportunities for smart cities to improve their efficiency and sustainability. Robotics and automation can be applied in various aspects of a smart city, such as transportation, waste management, public safety, and infrastructure maintenance.
 

@@ -1,4 +1,4 @@
-# Introduction
+
 
 Rapid urbanization is transforming the world, with more than half of the global population now living in cities. This trend presents both opportunities and challenges, including the need to build sustainable and livable cities that can accommodate growing populations while minimizing environmental impact.
 

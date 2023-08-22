@@ -1,5 +1,4 @@
-Amsterdam's Smart City Project
-===========================================================================================
+
 
 Amsterdam is one of the most livable cities in the world. It is a city that is steeped in history, culture, and innovation. In recent years, Amsterdam has embarked on a smart city project aimed at using technology to enhance the lives of its citizens. This chapter will explore the Amsterdam Smart City Project and provide some insights into how it has transformed the city.
 

@@ -1,5 +1,4 @@
-Chapter 2: Fundamentals of Artificial Intelligence
-==================================================
+
 
 Artificial Intelligence (AI) is a rapidly evolving field that has the potential to revolutionize the way we live and work. In this chapter, we will explore the fundamentals of AI, including its definition, history, development, types, key concepts and techniques, applications, limitations, and challenges.
 

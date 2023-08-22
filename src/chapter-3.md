@@ -1,5 +1,4 @@
-Chapter 3: Smart Cities and Their Components
-============================================
+
 
 What are Smart Cities?
 ----------------------
