@@ -1,7 +1,4 @@
 
-
-
-
 Artificial Intelligence (AI) has become an integral part of our lives. It is used in various fields such as healthcare, finance, transportation, education, and many more. AI is also transforming our cities into smart cities by providing innovative solutions to urban challenges. In this chapter, we will discuss the fundamentals of AI, its definition, history, and development.
 
 Definition of Artificial Intelligence

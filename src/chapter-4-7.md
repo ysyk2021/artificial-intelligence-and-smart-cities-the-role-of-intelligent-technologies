@@ -1,5 +1,4 @@
 
-
 Smart cities are designed to enhance the quality of life for their residents by utilizing advanced technologies. One such technology is virtual and augmented reality (VR/AR), which has the potential to revolutionize the way we experience and interact with our urban environments.
 
 What is Virtual and Augmented Reality?

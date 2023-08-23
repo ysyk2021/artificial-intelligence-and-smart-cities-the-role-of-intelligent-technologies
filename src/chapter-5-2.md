@@ -1,5 +1,4 @@
 
-
 Smart cities are becoming more prevalent as urban populations continue to grow, and the demand for energy increases. One of the most significant challenges facing smart cities is energy management and sustainability. As a result, intelligent technologies have become an essential tool in addressing these issues.
 
 Importance of Energy Management and Sustainability

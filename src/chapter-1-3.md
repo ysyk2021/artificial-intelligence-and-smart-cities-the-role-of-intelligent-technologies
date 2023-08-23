@@ -1,5 +1,4 @@
 
-
 Cities are the engines of economic growth and development, but they also face numerous challenges such as climate change, environmental degradation, traffic congestion, and social inequality. To address these challenges, there is a growing need for intelligent technologies that can help build sustainable and livable cities.
 
 What are Intelligent Technologies?

@@ -1,5 +1,4 @@
 
-
 As cities become more populated, traffic congestion becomes a major issue that affects both the environment and quality of life for residents. To tackle this challenge, cities are turning to intelligent transportation systems (ITS) powered by artificial intelligence (AI) and other intelligent technologies.
 
 What is Intelligent Transportation System?

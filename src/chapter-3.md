@@ -1,5 +1,4 @@
 
-
 What are Smart Cities?
 ----------------------
 

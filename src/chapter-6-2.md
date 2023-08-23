@@ -1,7 +1,4 @@
 
-
-
-
 Barcelona is one of the leading smart cities in Europe, with a long-standing commitment to sustainability and innovation. The city has implemented a range of smart city initiatives that leverage advanced technologies such as IoT, AI, and big data analytics to improve urban services and enhance citizen well-being. This chapter examines Barcelona's smart city initiative, its key success factors, and the lessons learned from its implementation.
 
 Overview of Barcelona's Smart City Initiative

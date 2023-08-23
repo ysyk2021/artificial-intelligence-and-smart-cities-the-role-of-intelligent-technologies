@@ -1,5 +1,4 @@
 
-
 Tourism and hospitality play a significant role in the economic growth of many smart cities. With intelligent technologies, smart cities can enhance the tourism experience for visitors, making it more convenient, efficient, and enjoyable. In this chapter, we will discuss some of the applications of intelligent technologies in the tourism and hospitality sector of smart cities.
 
 Smart Hotel Management Systems

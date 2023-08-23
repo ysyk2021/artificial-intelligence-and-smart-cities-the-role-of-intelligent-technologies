@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) has emerged as a key technology in building Smart Cities. AI enables cities to collect and analyze large amounts of data, leading to better decision-making and improved services. However, like any technology, AI has its limitations and challenges. In this chapter, we will explore the fundamentals of AI and the limitations and challenges it presents.
 
 1\. What is Artificial Intelligence?

@@ -1,5 +1,4 @@
 
-
 Definition of Smart Cities
 --------------------------
 

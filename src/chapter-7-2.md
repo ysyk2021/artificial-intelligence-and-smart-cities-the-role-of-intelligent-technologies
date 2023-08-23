@@ -1,5 +1,4 @@
 
-
 The integration of Artificial Intelligence (AI) in Smart Cities has the potential to revolutionize urban living, making it more sustainable, efficient, and livable. As technology continues to advance, there are several opportunities and future directions for AI and Smart Cities that can be explored to enhance their capabilities.
 
 Machine Learning and Predictive Analytics

@@ -1,5 +1,4 @@
 
-
 With the increasing urbanization of our world, ensuring public safety and security has become a top priority for smart cities. Fortunately, the integration of intelligent technologies can help address these concerns in several ways.
 
 Video Surveillance

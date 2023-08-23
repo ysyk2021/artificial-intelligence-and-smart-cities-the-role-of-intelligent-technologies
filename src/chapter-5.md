@@ -1,5 +1,4 @@
 
-
 Smart cities leverage intelligent technologies to enhance the quality of life for their citizens, promote sustainability, and increase efficiency. In this chapter, we will explore some of the key applications of intelligent technologies in smart cities.
 
 Intelligent Transportation Systems

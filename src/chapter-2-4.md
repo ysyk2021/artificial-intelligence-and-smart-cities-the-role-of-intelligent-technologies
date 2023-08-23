@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence (AI) has revolutionized the way we live and work. In recent years, AI has become an integral part of various fields, including healthcare, transportation, finance, education, and many more. This chapter will discuss the fundamentals of AI and its applications in various fields.
 
 What is Artificial Intelligence?

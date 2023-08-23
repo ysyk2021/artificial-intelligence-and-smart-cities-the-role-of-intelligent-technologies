@@ -1,5 +1,4 @@
 
-
 Dubai is well-known for its ambitious smart city vision, which aims to integrate advanced technologies into the city's infrastructure to enhance livability, sustainability, and efficiency. The city has made significant progress towards achieving this vision in recent years, and has become a leading example of a successful smart city.
 
 Smart Transportation
